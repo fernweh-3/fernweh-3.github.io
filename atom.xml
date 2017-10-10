@@ -187,9 +187,9 @@
       <category term="记录" scheme="http://yoursite.com/categories/%E8%AE%B0%E5%BD%95/"/>
     
     
-      <category term="2016" scheme="http://yoursite.com/tags/2016/"/>
-    
       <category term="记事本" scheme="http://yoursite.com/tags/%E8%AE%B0%E4%BA%8B%E6%9C%AC/"/>
+    
+      <category term="2016" scheme="http://yoursite.com/tags/2016/"/>
     
   </entry>
   
@@ -211,9 +211,9 @@
       <category term="记录" scheme="http://yoursite.com/categories/%E8%AE%B0%E5%BD%95/"/>
     
     
-      <category term="记事本" scheme="http://yoursite.com/tags/%E8%AE%B0%E4%BA%8B%E6%9C%AC/"/>
-    
       <category term="2014" scheme="http://yoursite.com/tags/2014/"/>
+    
+      <category term="记事本" scheme="http://yoursite.com/tags/%E8%AE%B0%E4%BA%8B%E6%9C%AC/"/>
     
   </entry>
   
